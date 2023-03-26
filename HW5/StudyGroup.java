@@ -2,7 +2,7 @@ package HW5;
 
 import java.util.List;
 
-public class StudyGroup <T>  {
+public class StudyGroup <T> {
 
     private int id;
     private String techear;

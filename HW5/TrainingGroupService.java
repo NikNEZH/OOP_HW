@@ -49,11 +49,4 @@ public class TrainingGroupService implements DataServer  {
             return students;
         }
     }
-@Override
-public String toString() {
-    // TODO Auto-generated method stub
-    return super.toString();
-}
-    
-
 }
